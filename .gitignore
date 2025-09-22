@@ -1,0 +1,9 @@
+# ignore model artifacts
+ml-models/
+
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+
+# other common ignores
+.DS_Store
